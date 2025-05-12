@@ -1,0 +1,13 @@
+text
+pandas
+numpy
+scikit-learn
+umap-learn
+hdbscan
+networkx
+matplotlib
+sentence-transformers
+torch
+tqdm
+Pillow
+clip @ git+https://github.com/openai/CLIP.git
