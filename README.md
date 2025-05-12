@@ -169,7 +169,7 @@ Each image contains up to 5 representative products in that cluster:
 
 ## 🛠 Author & Credits
 
-Developed by \[Your Name or Team]
+Developed by razi-tm  
 Inspired by OpenAI CLIP, Amazon Metadata, and SBERT
 
 ---
