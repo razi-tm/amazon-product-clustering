@@ -1,6 +1,5 @@
 data
 images
-*.png
 *.csv
 *.csv#
 *.json
