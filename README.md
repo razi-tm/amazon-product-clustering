@@ -111,7 +111,7 @@ This script:
 
 ---
 
-### 3. 🧐 Validate Results
+### 3. ⚖️ Validate Results
 
 ```bash
 python validate_clusters.py
