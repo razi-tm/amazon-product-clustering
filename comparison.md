@@ -46,13 +46,9 @@ When it comes to grouping “related” products (earphones, covers, chargers, e
 
 1. **Behavior‐Driven Relations**
 
-   * Directly encodes user behavior: if many people buy chargers right after phones, you’ll see a strong link—regardless of how similar they look or how descriptively their titles match.
-
-2. **Robust to Cold Start for Similar Products**
-
-   * Even if a new case has a bland title and a generic photo, once users co-purchase it, the graph will immediately hook it to the relevant phone cluster.
-
-3. **Scalable Community Detection**
+   * Directly encodes user behavior: if many people buy chargers right after phones, you’ll see a strong link—regardless of how similar they look or how descriptively their titles match.  
+   
+2. **Scalable Community Detection**
 
    * Graph clustering algorithms like Louvain or Leiden can handle millions of nodes and edges efficiently, producing “related” communities very quickly.
 
